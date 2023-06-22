@@ -1,0 +1,8 @@
+{
+  "name": "KabUNav",
+  "displayName": "KabUNav",
+  "expo":{
+    "sdkversion": "48.0.19",
+    "name":"KabUNav"
+  }
+}

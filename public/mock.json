@@ -1,0 +1,1013 @@
+{
+  "buildings": {
+    "SMHS": {
+      "coordinates": {
+        "latitude": -0.16957172761376219,
+        "longitude": 35.96584227958486
+      },
+      "floors": [
+        {
+          "G": {
+            "rooms": [
+              {
+                "Lecture Room 1": {
+                  "description": "From SMHS entrance ground floor, enter the left-hand side wing of the building. First door on your left.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 2": {
+                  "description": "From SMHS entrance ground floor, enter the left-hand side wing of the building. 3rd door on your left.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 3": {
+                  "description": "From SMHS entrance ground floor, enter the left-hand side wing of the building. 5th door on your left.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Pharmacognosy Lab": {
+                  "description": "From SMHS entrance ground floor, enter the left-hand side wing of the building. Last door on your left.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Pharmaceutical Chemistry Lab": {
+                  "description": "From SMHS entrance ground floor, enter the left-hand side wing of the building. Go straight ahead and make a right turn at the end of the corridor. First door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Pharmaceuitical MicroBiology Lab": {
+                  "description": "From SMHS entrance ground floor, enter the left-hand side wing of the building. Go straight ahead and make a right turn at the end of the corridor. Go straight ahead past the Pharmaceutical Chemistry Lab and make the right turn at the end of the corridor. 1st door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 4": {
+                  "description": "From SMHS entrance ground floor, enter the left-hand side wing of the building. Go straight ahead and make a right turn at the end of the corridor. Go straight ahead past the Pharmaceutical Chemistry Lab and make the right turn at the end of the corridor. 2nd door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 5": {
+                  "description": "From SMHS entrance ground floor, enter the left-hand side wing of the building. Go straight ahead and make a right turn at the end of the corridor. Go straight ahead past the Pharmaceutical Chemistry Lab and make the right turn at the end of the corridor. 3rd door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 6": {
+                  "description": "From SMHS entrance ground floor, enter the left-hand side wing of the building. Go straight ahead and make a right turn at the end of the corridor. Go straight ahead past the Pharmaceutical Chemistry Lab and make the right turn at the end of the corridor. 4th door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 12": {
+                  "description": "From SMHS entrance ground floor, enter the right-hand side wing of the building. First door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 11": {
+                  "description": "From SMHS entrance ground floor, enter the right-hand side wing of the building. 2nd door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 10": {
+                  "description": "From SMHS entrance ground floor, enter the right-hand side wing of the building. 4th door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Pharmaceuitics and Pharmacy Practice": {
+                  "description": "From SMHS entrance ground floor, enter the right-hand side wing of the building. Last door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "School of Pharmacy": {
+                  "description": "From SMHS entrance ground floor, enter the right-hand side wing of the building. Go straight ahead and make the left turn at the end of the corridor. First door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Pharmaceuitical and Pharmacology care unit": {
+                  "description": "From SMHS entrance ground floor, enter the right-hand side wing of the building. Go straight ahead and make the left turn at the end of the corridor. Go past the School of Pharmacy. Door at the end of the corridor.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 9": {
+                  "description": "From SMHS entrance ground floor, enter the right-hand side wing of the building. Go straight ahead and make the left turn at the end of the corridor. Go past the School of Pharmacy and make the left turn. 2nd door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 8": {
+                  "description": "From SMHS entrance ground floor, enter the right-hand side wing of the building. Go straight ahead and make the left turn at the end of the corridor. Go past the School of Pharmacy and make the left turn. 4th door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 7": {
+                  "description": "From SMHS entrance ground floor, enter the right-hand side wing of the building. Go straight ahead and make the left turn at the end of the corridor. Go past the School of Pharmacy and make the left turn. 5th door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "1st": {
+            "rooms": [
+              {
+                "Lecture Room 1": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the left-hand side wing of the building. First door on your left.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 2": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the left-hand side wing of the building. 3rd door on your left.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Drawing Room": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the left-hand side wing of the building. 4th door on your left.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 3": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the left-hand side wing of the building. Last door on your left.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Department of Public Health": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the left-hand side wing of the building. Go straight ahead and make a right turn at the end of the corridor. 1st door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Technician": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the left-hand side wing of the building. Go straight ahead and make a right turn at the end of the corridor. 2nd door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Environmental Health Skills": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the left-hand side wing of the building. Go straight ahead and make a right turn at the end of the corridor. 3rd door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Environmental Health Entomology": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the left-hand side wing of the building. Go straight ahead and make a right turn at the end of the corridor. Last door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Skills": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the left-hand side wing of the building. Go straight ahead and make a right turn at the end of the corridor. Go straight ahead to the end of the corridor and make the right turn. 1st door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 4": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the left-hand side wing of the building. Go straight ahead and make a right turn at the end of the corridor. Go straight ahead to the end of the corridor and make the right turn. 2nd door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 5": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the left-hand side wing of the building. Go straight ahead and make a right turn at the end of the corridor. Go straight ahead to the end of the corridor and make the right turn. 4th door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Public Health": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the left-hand side wing of the building. Go straight ahead and make a right turn at the end of the corridor. Go straight ahead to the end of the corridor and make the right turn. 6th door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "MSc Nutrition Exam Room": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the right-hand side wing of the building. First door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Human Nutrition and Dietics L1": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the right-hand side wing of the building. 3rd door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Human Nutrition and Dietics L2": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the right-hand side wing of the building. 4th door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Hall 1": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the right-hand side wing of the building. Last door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Dean: School of Medicine": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the right-hand side wing of the building. Go straight ahead and make a left turn at the end of the corridor. 1st door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Hall 2": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the right-hand side wing of the building. Go straight ahead and make a left turn at the end of the corridor. Last door straight ahead",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 9": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the right-hand side wing of the building. Go straight ahead and make a left turn at the end of the corridor. Go straight ahead and make a left turn at the end of the corridor. 2nd door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 8": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the right-hand side wing of the building. Go straight ahead and make a left turn at the end of the corridor. Go straight ahead and make a left turn at the end of the corridor. 3rd door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Seminar Room": {
+                  "description": "From SMHS entrance, take the main stairs to the first floor. Enter the right-hand side wing of the building. Go straight ahead and make a left turn at the end of the corridor. Go straight ahead and make a left turn at the end of the corridor. 6th door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "2nd": {
+            "rooms": [
+              {
+                "Nursing Room 5": {
+                  "description": "From SMHS entrance, take the main stairs to the 2nd floor. Enter the left-hand side wing of the building. First door on your left.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 3": {
+                  "description": "From SMHS entrance, take the main stairs to the 2nd floor. Enter the left-hand side wing of the building. 3rd door on your left.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 2": {
+                  "description": "From SMHS entrance, take the main stairs to the 2nd floor. Enter the left-hand side wing of the building. 4th door on your left.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Nursing Room 6": {
+                  "description": "From SMHS entrance, take the main stairs to the 2nd floor. Enter the left-hand side wing of the building. 5th door on your left.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Hall A": {
+                  "description": "From SMHS entrance, take the main stairs to the 2nd floor. Enter the left-hand side wing of the building. Go straight ahead and make a right turn at the end of the corridor. 1st door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Hall B": {
+                  "description": "From SMHS entrance, take the main stairs to the 2nd floor. Enter the left-hand side wing of the building. Go straight ahead and make a right turn at the end of the corridor. 2nd door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Hall C": {
+                  "description": "From SMHS entrance, take the main stairs to the 2nd floor. Enter the left-hand side wing of the building. Go straight ahead and make a right turn at the end of the corridor. 3rd door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Hall D": {
+                  "description": "From SMHS entrance, take the main stairs to the 2nd floor. Enter the left-hand side wing of the building. Go straight ahead and make a right turn at the end of the corridor. Last door straight ahead",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Food Labaratory": {
+                  "description": "From SMHS entrance, take the main stairs to the 2nd floor. Enter the left-hand side wing of the building. Go straight ahead and make a right turn at the end of the corridor. Go straight ahead to the end of the corridor and make the right turn. 1st door on your left.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Nursing Room 1": {
+                  "description": "From SMHS entrance, take the main stairs to the 2nd floor. Enter the right-hand side wing of the building. First door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 12": {
+                  "description": "From SMHS entrance, take the main stairs to the 2nd floor. Enter the right-hand side wing of the building. 3rd door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 11": {
+                  "description": "From SMHS entrance, take the main stairs to the 2nd floor. Enter the right-hand side wing of the building. 4th door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 10": {
+                  "description": "From SMHS entrance, take the main stairs to the 2nd floor. Enter the right-hand side wing of the building. 5th door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Hall 1": {
+                  "description": "From SMHS entrance, take the main stairs to the 2nd floor. Enter the right-hand side wing of the building. Last door on your right.",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Hall 2": {
+                  "description": "From SMHS entrance, take the main stairs to the 2nd floor. Enter the right-hand side wing of the building. Go straight ahead and make a left turn at the end of the corridor. Last door straight ahead",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 9": {
+                  "description": "From SMHS entrance, take the main stairs to the 2nd floor. Enter the right-hand side wing of the building. Go straight ahead and make a left turn at the end of the corridor. Go straight ahead and make a left turn at the end of the corridor. 2nd door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 8": {
+                  "description": "From SMHS entrance, take the main stairs to the 2nd floor. Enter the right-hand side wing of the building. Go straight ahead and make a left turn at the end of the corridor. Go straight ahead and make a left turn at the end of the corridor. 4th door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 7": {
+                  "description": "From SMHS entrance, take the main stairs to the 2nd floor. Enter the right-hand side wing of the building. Go straight ahead and make a left turn at the end of the corridor. Go straight ahead and make a left turn at the end of the corridor. 5th door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Trustee": {
+      "coordinates": {
+        "latitude": -0.167289158294115,
+        "longitude": 35.96595537391707
+      },
+      "floors": [
+        {
+          "G": {
+            "rooms": [
+              {
+                "Lecture Room 1": {
+                  "description": "From Trustee North entrance, 1st door on your right-hand side",
+                  "coords": {
+                    "longitude": 0,
+                    "latitude": 0
+                  }
+                },
+                "DPBS": {
+                  "description": "Department of Physical and Biological Sciences: From Trustee North entrance, 2nd door on your right-hand side",
+                  "coords": {
+                    "longitude": 0,
+                    "latitude": 0
+                  }
+                },
+                "Lecture Room 2": {
+                  "description": "From Trustee North entrance, 4th door on your right-hand side",
+                  "coords": {
+                    "longitude": 0,
+                    "latitude": 0
+                  }
+                },
+                "Comp Lab 1": {
+                  "description": "From Trustee North entrance, last door on your right-hand side",
+                  "coords": {
+                    "longitude": 0,
+                    "latitude": 0
+                  }
+                },
+                "BBIT LH1": {
+                  "description": "From Trustee North entrance, go straight ahead and take a left turn. 1st door on your right-hand side",
+                  "coords": {
+                    "longitude": 0,
+                    "latitude": 0
+                  }
+                },
+                "Quality Assurance Office": {
+                  "description": "From Trustee North entrance, go straight ahead and take a left turn. 2nd door on your right-hand side",
+                  "coords": {
+                    "longitude": 0,
+                    "latitude": 0
+                  }
+                },
+                "Electricity Lab 1": {
+                  "description": "From Trustee North entrance, go straight ahead and take a left turn. 3rd door on your right-hand side",
+                  "coords": {
+                    "longitude": 0,
+                    "latitude": 0
+                  }
+                },
+                "Internal Audit Room": {
+                  "description": "From Trustee North entrance, go straight ahead and take a left turn. 3rd door on your right-hand side",
+                  "coords": {
+                    "longitude": 0,
+                    "latitude": 0
+                  }
+                },
+                "BBIT LH2": {
+                  "description": "From Trustee North entrance, go straight ahead and take a left turn. 4th door on your right-hand side",
+                  "coords": {
+                    "longitude": 0,
+                    "latitude": 0
+                  }
+                },
+                "Lecture Room 5": {
+                  "description": "From Trustee South entrance, 1st door on your leftt-hand side",
+                  "coords": {
+                    "longitude": 0,
+                    "latitude": 0
+                  }
+                },
+                "MMP": {
+                  "description": "Medical Microbiology and Parasitology: From Trustee South entrance, 2nd door on your right-hand side",
+                  "coords": {
+                    "longitude": 0,
+                    "latitude": 0
+                  }
+                },
+                "General Biology Lab": {
+                  "description": "From Trustee South entrance, 3rd door on your leftt-hand side",
+                  "coords": {
+                    "longitude": 0,
+                    "latitude": 0
+                  }
+                },
+                "Chemistry Lab": {
+                  "description": "From Trustee South entrance, 4th door on your left-hand side",
+                  "coords": {
+                    "longitude": 0,
+                    "latitude": 0
+                  }
+                },
+                "Lecture Room 6": {
+                  "description": "From Trustee South entrance, 5th door on your left-hand side",
+                  "coords": {
+                    "longitude": 0,
+                    "latitude": 0
+                  }
+                },
+                "BBIT LH3": {
+                  "description": "From Trustee South entrance, 6th door on your left-hand side",
+                  "coords": {
+                    "longitude": 0,
+                    "latitude": 0
+                  }
+                },
+                "Physics Lab 2": {
+                  "description": "From Trustee South entrance, go staright ahead and take a right turn at the end of the corridor. 1st door on your left-hand side",
+                  "coords": {
+                    "longitude": 0,
+                    "latitude": 0
+                  }
+                },
+                "Physics Lab 1": {
+                  "description": "From Trustee South entrance, go staright ahead and take a right turn at the end of the corridor. 2nd door on your left-hand side",
+                  "coords": {
+                    "longitude": 0,
+                    "latitude": 0
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "1st": {
+            "rooms": [
+              {
+                "Lavatory": {
+                  "description": "From Trustee North entrance, take the stairs on your right-hand-side. First door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Department of Education": {
+                  "description": "From Trustee North entrance, take the stairs on your right-hand-side. 2nd door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "School of Education": {
+                  "description": "From Trustee North entrance, take the stairs on your right-hand-side. Third door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Department of Educatin": {
+                  "description": "From Trustee North entrance, take the stairs on your right-hand-side. Fourth door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecturers: Computer Science": {
+                  "description": "From Trustee North entrance, take the stairs on your right-hand-side. Fifth door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "SSET": {
+                  "description": "School of Science Engineering and Technology: From Trustee North entrance, take the stairs on your right-hand-side. Sixth door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Comp Lab 2": {
+                  "description": "From Trustee North entrance, take the stairs on your right-hand-side. Last door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Comp Lab 4": {
+                  "description": "From Trustee North entrance, take the stairs on your right-hand-side. Go straight ahead and take a left turn at the end of the corridor. First door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "ICT": {
+                  "description": "From Trustee North entrance, take the stairs on your right-hand-side. Go straight ahead and take a left turn at the end of the corridor. 2nd door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Comp Lab 3": {
+                  "description": "From Trustee North entrance, take the stairs on your right-hand-side. Go straight ahead and take a left turn at the end of the corridor. Third door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 13": {
+                  "description": "From Trustee North entrance, take the stairs on your right-hand-side. Go straight ahead and take a left turn at the end of the corridor. Fourth door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 12": {
+                  "description": "From Trustee North entrance, take the stairs on your right-hand-side. Go straight ahead and take a left turn at the end of the corridor. Fifth door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "ICT office": {
+                  "description": "From Trustee North entrance, take the stairs on your right-hand-side. Go straight ahead and take a left turn at the end of the corridor. 6th door on your right",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "School of Business and Economics": {
+                  "description": "From Trustee South entrance, take the stairs on your left-hand side. First door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Mathematics and Physics": {
+                  "description": "From Trustee South entrance, take the stairs on your left-hand side. 2nd door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecturers: Comp Sci": {
+                  "description": "From Trustee South entrance, take the stairs on your left-hand side. 3rd door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecturers: Mathematics and Physics": {
+                  "description": "From Trustee South entrance, take the stairs on your left-hand side. Fourth door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecturers: Commerce": {
+                  "description": "From Trustee South entrance, take the stairs on your left-hand side. Fifth door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 7": {
+                  "description": "From Trustee South entrance, take the stairs on your left-hand side. Go straight ahead. 2nd Last door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Examination and Timetabling": {
+                  "description": "From Trustee South entrance, take the stairs on your left-hand side. Go straight ahead and take the right turn at the end of the corridor. 2nd door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Institue of postgraduate studies": {
+                  "description": "From Trustee South entrance, take the stairs on your left-hand side. Go straight ahead and take the right turn at the end of the corridor. 3rd door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 9": {
+                  "description": "From Trustee South entrance, take the stairs on your left-hand side. Go straight ahead and take the right turn at the end of the corridor. 4th door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                },
+                "Lecture Room 11": {
+                  "description": "From Trustee South entrance, take the stairs on your left-hand side. Go straight ahead and take the right turn at the end of the corridor. 5th door on your left",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Mess": {
+      "coordinates": {
+        "latitude": -0.16633114972515692,
+        "longitude": 35.96649276319572
+      },
+      "floors": [
+        {
+          "G": {
+            "rooms": [
+              {
+                "Dining Hall": {
+                  "description": "Straight Ahead to Zarepath Dining Hall Entrance",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "STC: Student's Centre": {
+      "coordinates": {
+        "latitude": -0.167356188885018,
+        "longitude": 35.96247638282968
+      },
+      "floors": [
+        {
+          "G": {
+            "rooms": [
+              {
+                "Student Centre": {
+                  "description": "Straight Ahead",
+                  "coords": {
+                    "longitude": -0.16881214259799293,
+                    "latitude": 35.96558269041507
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Library": {
+      "coordinates": {
+        "latitude": -0.16840390767534394,
+        "longitude": 35.96669730267944
+      },
+      "floors": [
+        {
+          "G": {
+            "rooms": [
+              {
+                "Library": {
+                  "description": "Straight Ahead",
+                  "coords": {
+                    "longitude": -0.16839266061953256,
+                    "latitude": 35.96669342915431
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Auditorium": {
+      "coordinates": {
+        "latitude": -0.16734268552763518,
+        "longitude": 35.9666659531712
+      },
+      "floors": [
+        {
+          "G": {
+            "rooms": [
+              {
+                "Auditorium": {
+                  "description": "Straight Ahead",
+                  "coords": {
+                    "longitude": -0.1673611444631979,
+                    "latitude": 35.96669794731213
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Ladies Hostel": {
+      "coordinates": {
+        "latitude": -0.16921122939095384,
+        "longitude": 35.96651374622975
+      },
+      "floors": [
+        {
+          "G": {
+            "rooms": [
+              {
+                "Hostel": {
+                  "description": "Straight Ahead",
+                  "coords": {
+                    "longitude": -0.1673611444631979,
+                    "latitude": 35.96669794731213
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "School of Law": {
+      "coordinates": {
+        "latitude": -0.1701468431240111,
+        "longitude": 35.964648895174705
+      },
+      "floors": [
+        {
+          "G": {
+            "rooms": [
+              {
+                "Klaw 5": {
+                  "description": "The door at the main entrance of the building",
+                  "coords": {
+                    "longitude": -0.17013751029018728,
+                    "latitude": 35.96463971683568
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "KABU Enterprise": {
+      "coordinates": {
+        "latitude": -0.16616909397852736,
+        "longitude": 35.96277764207981
+      },
+      "floors": [
+        {
+          "G": {
+            "rooms": [
+              {
+                "Enterprise": {
+                  "description": "The door at the main entrance of the building",
+                  "coords": {
+                    "longitude": -0.17013751029018728,
+                    "latitude": 35.96463971683568
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Mens Hostel": {
+      "coordinates": {
+        "latitude": -0.16616873706086663,
+        "longitude": 35.9650712302721
+      },
+      "floors": [
+        {
+          "G": {
+            "rooms": [
+              {
+                "Hostel": {
+                  "description": "The door at the main entrance of the building",
+                  "coords": {
+                    "longitude": -0.17013751029018728,
+                    "latitude": 35.96463971683568
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "KABUO": {
+      "coordinates": {
+        "latitude": -0.16587696861346912,
+        "longitude": 35.96511192910718
+      },
+      "floors": [
+        {
+          "G": {
+            "rooms": [
+              {
+                "KABUO": {
+                  "description": "The door at the main entrance of the building",
+                  "coords": {
+                    "longitude": -0.17013751029018728,
+                    "latitude": 35.96463971683568
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Chapel": {
+      "coordinates": {
+        "latitude": -0.1652650527439214,
+        "longitude": 35.96490947744812
+      },
+      "floors": [
+        {
+          "G": {
+            "rooms": [
+              {
+                "Chapel": {
+                  "description": "The door at the main entrance of the building",
+                  "coords": {
+                    "longitude": -0.17013751029018728,
+                    "latitude": 35.96463971683568
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Administration Block": {
+      "coordinates": {
+        "latitude": -0.16724482852784867,
+        "longitude": 35.966061248841505
+      },
+      "floors": [
+        {
+          "G": {
+            "rooms": [
+              {
+                "Admissions": {
+                  "description": "From South entrance of the building, 3rd door on your right-hand side",
+                  "coords": {
+                    "longitude": -0.17013751029018728,
+                    "latitude": 35.96463971683568
+                  }
+                },
+                "Cash Office": {
+                  "description": "From South entrance of the building, 5th door on your right-hand side",
+                  "coords": {
+                    "longitude": -0.17013751029018728,
+                    "latitude": 35.96463971683568
+                  }
+                },
+                "Finance": {
+                  "description": "From South entrance of the building, 6th door on your right-hand side",
+                  "coords": {
+                    "longitude": -0.17013751029018728,
+                    "latitude": 35.96463971683568
+                  }
+                },
+                "Procurement": {
+                  "description": "From South entrance of the building, last door on your right-hand side",
+                  "coords": {
+                    "longitude": -0.17013751029018728,
+                    "latitude": 35.96463971683568
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
