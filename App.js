@@ -273,10 +273,12 @@ const App = () => {
             setDuration(result.duration);
             setTimeout(() => setFlag(true), 3000);
 
-            // Compare user's current position with route's initial position
-            const {coordinates} = result.directions[0];
+            const {coordinates} = result;
             const initialPosition = coordinates[0];
 
+            console.log(JSON.stringify(coordinates[0], null, 2));
+
+            // Compare user's current position with route's initial position
             if (
               Math.abs(origin.latitude - initialPosition.latitude) > 0.001 ||
               Math.abs(origin.longitude - initialPosition.longitude) > 0.001
